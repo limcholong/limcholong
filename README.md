@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 ## Hi there 👋
 I’m currently learning Java, Spring
 
+<!--
 ## GitHub's Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limcholong"/>
-
+-->
 ## Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
