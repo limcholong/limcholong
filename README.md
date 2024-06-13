@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I’m currently learning Java, Spring
 
 ## GitHub's Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limcholong)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limcholong/>
 
 ## Skills
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
@@ -45,8 +45,8 @@ I’m currently learning Java, Spring
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"></a>&nbsp
-        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-squaree&logo=Apache Tomcat&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"></a>&nbsp
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black"></a>&nbsp
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
