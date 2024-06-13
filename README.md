@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    <br>
 ## Skills 🌱
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
@@ -26,30 +27,30 @@ Here are some ideas to get you started:
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&nbsp
-        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"></a>&nbsp
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"></a>&nbsp
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"></a>&nbsp
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"></a>&nbsp
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"></a>&nbsp
         <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"></a>&nbsp
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"></a>&nbsp
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-squaree&logo=apachetomcat&logoColor=black"></a>&nbsp
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"></a>&nbsp
+        <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-squaree&logo=Apache Tomcat&logoColor=black"></a>&nbsp
     </div>
     <!-- Others -->
     <p><strong>Others</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"></a>&nbsp
-        <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=visi&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"></a>&nbsp
     </div>
     <br>
 </div>
